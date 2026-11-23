@@ -17,3 +17,6 @@ __pycache__/
 
 # Dataset descompactado (versionamos só o .gz, bem menor)
 data/TMNIST_Data.csv
+
+# Rascunhos de teste (não são código final)
+prototipo/
