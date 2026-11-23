@@ -14,3 +14,6 @@ __pycache__/
 
 # Checkpoints do Jupyter
 .ipynb_checkpoints/
+
+# Dataset descompactado (versionamos só o .gz, bem menor)
+data/TMNIST_Data.csv
