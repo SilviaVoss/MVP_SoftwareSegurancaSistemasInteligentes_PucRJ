@@ -1,0 +1,8 @@
+flask            # framework web da API REST
+scikit-learn     # carregar e usar o modelo treinado
+joblib           # ler o arquivo modelo.pkl
+numpy            # manipulação de arrays (pixels das imagens)
+opencv-python-headless  # processamento de imagem (segmentação dos dígitos)
+requests         # chamar a API externa de cotação
+python-dotenv    # ler as variáveis do arquivo .env
+pytest           # testes automatizados

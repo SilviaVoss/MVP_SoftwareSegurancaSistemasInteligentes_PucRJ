@@ -1,0 +1,16 @@
+# Ambiente virtual Python (cada pessoa cria o seu)
+.venv/
+
+# Variáveis de ambiente com segredos (nunca vão para o GitHub)
+.env
+
+# Arquivos gerados automaticamente pelo Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Banco SQLite local (é recriado a partir do schema.sql)
+*.db
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
